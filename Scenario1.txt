@@ -1,0 +1,5 @@
+Scenario 1 Answer:
+1. git init
+2. Create a commit
+3. Create a GitHub repository
+4. git push
